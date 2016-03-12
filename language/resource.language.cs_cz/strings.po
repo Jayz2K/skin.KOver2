@@ -38,7 +38,7 @@ msgstr "Nastavení"
 
 msgctxt "#31275"
 msgid "Poster"
-msgstr "Plagát"
+msgstr "Plakát"
 
 msgctxt "#31277"
 msgid "Banner"
